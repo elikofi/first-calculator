@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{6031E124-40C6-44F7-8704-3AB90829F598}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="First-Calculator/Program.cs">
     <Files>
-      <File FileName="First-Calculator/Program.cs" Line="36" Column="41" />
+      <File FileName="First-Calculator/Program.cs" Line="42" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,11 +18,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.First-Calculator PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

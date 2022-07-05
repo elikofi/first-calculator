@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elijahamoako/Projects/First-Calculator/First-Calculator/First-Calculator.csproj",
+      "projectUniqueName": "/Users/elijahamoako/Projects/PORTFOLIO/First-Calculator/First-Calculator/First-Calculator.csproj",
       "projectName": "First-Calculator",
-      "projectPath": "/Users/elijahamoako/Projects/First-Calculator/First-Calculator/First-Calculator.csproj",
+      "projectPath": "/Users/elijahamoako/Projects/PORTFOLIO/First-Calculator/First-Calculator/First-Calculator.csproj",
       "packagesPath": "/Users/elijahamoako/.nuget/packages/",
-      "outputPath": "/Users/elijahamoako/Projects/First-Calculator/First-Calculator/obj/",
+      "outputPath": "/Users/elijahamoako/Projects/PORTFOLIO/First-Calculator/First-Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/elijahamoako/.nuget/NuGet/NuGet.Config"
